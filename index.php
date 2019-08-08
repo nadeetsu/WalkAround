@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="assets/lib/font-awesome/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <title>Walk Around - Your Finest Footwear</title>
+    <title>Walk Around - Your Finest Footwears</title>
     <style>
 
     </style>
